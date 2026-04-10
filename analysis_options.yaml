@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    # Generated proxy files use kebab-case filenames (matching ABP route names)
+    # which violate file_names lint. Excluding them keeps the hand-written
+    # code's analyzer output clean.
+    - lib/data/proxy/**

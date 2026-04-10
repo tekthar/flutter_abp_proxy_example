@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-04-10T05:23:08.862990Z",
+  "sourceUrl": "https://cms-kit-demo.abpdemo.com",
+  "generatorVersion": "0.2.0",
+  "generatedModules": [
+    "abp",
+    "account",
+    "app",
+    "cms-kit",
+    "cms-kit-admin",
+    "cms-kit-common",
+    "featureManagement",
+    "identity",
+    "multi-tenancy",
+    "permissionManagement",
+    "settingManagement"
+  ],
+  "moduleCounts": {
+    "abp": 5,
+    "account": 11,
+    "app": 8,
+    "cms-kit": 26,
+    "cms-kit-admin": 54,
+    "cms-kit-common": 2,
+    "featureManagement": 3,
+    "identity": 20,
+    "multi-tenancy": 8,
+    "permissionManagement": 3,
+    "settingManagement": 6
+  }
+}
