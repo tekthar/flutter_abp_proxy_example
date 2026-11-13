@@ -24,7 +24,7 @@ dev_dependencies:
 
   # Code generation stack required by flutter_abp_proxy output (freezed v3)
   build_runner: ^2.13.1
-  freezed: ^3.2.5
+  freezed: ^4.0.3
   json_serializable: ^6.13.1
   retrofit_generator: ^10.2.3
 
